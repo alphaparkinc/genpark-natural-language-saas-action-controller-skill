@@ -1,0 +1,1 @@
+# genpark-natural-language-saas-action-controller-skill\n\nTranslates high-level natural language phrases into deterministic SaaS API schema payloads.\n\n100% Python Standard Library implementation with zero external dependencies.
