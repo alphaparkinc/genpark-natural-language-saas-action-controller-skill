@@ -1,0 +1,8 @@
+{
+  "name": "genpark-natural-language-saas-action-controller-skill",
+  "version": "1.0.0",
+  "description": "Translates high-level natural language phrases into deterministic SaaS API schema payloads",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
