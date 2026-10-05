@@ -1,0 +1,1 @@
+[project]\nname = "genpark-natural-language-saas-action-controller-skill"\nversion = "1.0.0"\ndescription = "Translates high-level natural language phrases into deterministic SaaS API schema payloads"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
